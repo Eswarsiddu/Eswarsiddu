@@ -1,16 +1,22 @@
 ### Hi there 👋
 🔭 I’m a Freelancer
-<!--
-**Eswarsiddu/Eswarsiddu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<style>
+h2 {
+        font-size: 6em;
+        font-weight: 500;
+        color: #222;
+        letter-spacing: 5px;
+        cursor: pointer;
+        text-transform: uppercase;
+        transition: 0.5s;
+    }
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+    h2:hover {
+        color: #fff;
+        text-shadow: 0 0 5px #03e9f4,
+            0 0 25px #03e9f4,
+            0 0 50px #03e9f4,
+            0 0 100px #03e9f4;
+    }
+</style>
+I am <h2> SIDDU ESWAR</h2>
